@@ -4,6 +4,9 @@
 ### For: Marketers, Partnership leads, Freelancers, AI Agents
 ### License: MIT — free to use, modify, distribute
 
+[Buy me a coffee](https://ko-fi.com/binitkalsara)
+*Support this project with a coffee — helps keep updates coming.*
+
 ---
 ## ⚠️ READ FIRST: What this does (and doesn't do)
 
